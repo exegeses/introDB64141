@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/MySQL-4D9EB1?style=for-the-badge&logo=mysql&logoColor=white">
 
 > Curso de Introducción a las Bases de datos |      
-> Martes de 08hs a 10hs |      
+> Lunes y Miérsoles de 08hs a 10hs |      
 > Desde 15/05/2023 hasta 12/06/2023 |     
 > Código 64141 |    
 > sensei: Marcos Pinardi |  
