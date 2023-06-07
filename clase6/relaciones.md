@@ -41,7 +41,7 @@
 
 > La técnica ***JOIN*** se logra agregando en el FROM una sóla tabla (la tabla principal),
 > luego la tabla secundaria se menciona con la palabra JOIN
-> y finalmente usando ***ON** igualamos la columna en común.
+> y finalmente usando **ON** igualamos la columna en común.
 
 > Sintáxis:
 
